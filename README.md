@@ -35,15 +35,21 @@ Currently rental bikes are introduced in many urban cities for the enhancement o
 
 The goal of the company Seoul Bike is providing the city with a stable supply of rental bikes. It becomes a major concern to keep user satisfied. The crucial part is the prediction of bike count rents at each hour for a stable supply of rental bikes. We can suppose that this study could be reported to the company 'Seoul Bikes'. We think it could help them knowing if yes or not they have to supply bikes stations in the city, in order to keep a good satisfaction of the customers.
 
-#CONCLUSION
+# CONCLUSION
 
 ➢ ‘Hour’ of the day holds the most importantfeature.
+
 ➢ Bike rental count ismostly correlatedwiththe time of the day asit ispeak at 10 am morning and 8 
 pm atevening.
+
 ➢ We observedthat bike rentalcount ishigh during workingdays thannon workingday.
+
 ➢ We see that people generallypreferto bike at moderate to high temperatures, and when little
 windy
+
 ➢ It is observed that highest number bike rentals counts in Autumn & Summer seasons & the 
-lowest in winter season. We observed that the highest numberof bike rentalson a clearday and
+lowest in winter season.
+
+We observed that the highest numberof bike rentalson a clearday and
 the loweston a snowyorrainyday. We observed thatwithincreasinghumidity, the number of
 bike rental counts decreases.
