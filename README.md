@@ -40,19 +40,19 @@ The goal of the company Seoul Bike is providing the city with a stable supply of
 
 # CONCLUSION
 
-➢ ‘Hour’ of the day holds the most importantfeature.
+➢ ‘Hour’ of the day holds the most important feature.
 
-➢ Bike rental count ismostly correlatedwiththe time of the day asit ispeak at 10 am morning and 8 
+➢ Bike rental count is mostly correlated with the time of the day as it speak at 10 am morning and 8 
 pm atevening.
 
-➢ We observedthat bike rentalcount ishigh during workingdays thannon workingday.
+➢ We observed that bike rental count is high during working days than non working day.
 
-➢ We see that people generallypreferto bike at moderate to high temperatures, and when little
+➢ We see that people generally prefer to bike at moderate to high temperatures, and when little
 windy
 
 ➢ It is observed that highest number bike rentals counts in Autumn & Summer seasons & the 
 lowest in winter season.
 
-We observed that the highest numberof bike rentalson a clearday and
-the loweston a snowyorrainyday. We observed thatwithincreasinghumidity, the number of
+We observed that the highest number of bike rentalson a clearday and
+the loweston a snowyorrainyday. We observed that with increasing humidity, the number of
 bike rental counts decreases.
